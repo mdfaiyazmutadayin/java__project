@@ -1,0 +1,6 @@
+Name/Mobile/Address/Email/ProductCode/Prodect Quantity/Delivery Type
+Moon,01816422837,ECB,moon@gmail.com,P-001-Adata,2, Cash On Delivery Moon,01816422837,Dhaka,moon12@gmail.com,G-0004,1, Cash On Delivery 
+Moon,01877777777,ecb,moon@,00011,1, Cash On Delivery 
+Siam,0169696969,Noakhali,siam69@gmail,Mouse-#001,2, Cash On Delivery 
+faiyaz,01829509517,Uttara,faiyazmz720@gmail.com,L-Asus#005,1, Cash On Delivery 
+nafis,1111,mirpur,nafis@gmail.com,L-Asus#005,1, Cash On Delivery 

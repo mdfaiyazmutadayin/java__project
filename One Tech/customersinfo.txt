@@ -1,0 +1,3 @@
+Name/Mobile/Email/Address/Gender/Blood Group/User name/Password
+moon,111111111,moon@,Dhaka,male,A+,moon24,12345
+faiyaz,2,2,w,male,0+,48267,1234
